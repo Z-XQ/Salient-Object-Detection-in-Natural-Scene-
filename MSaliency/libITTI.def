@@ -1,0 +1,8 @@
+LIBRARY libITTI
+EXPORTS
+libITTIInitialize
+libITTIInitializeWithHandlers
+libITTITerminate
+libITTIPrintStackTrace
+mlxITTI
+
